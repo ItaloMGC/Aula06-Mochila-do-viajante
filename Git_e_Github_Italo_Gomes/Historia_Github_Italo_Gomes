@@ -1,0 +1,18 @@
+1.Quem inventou o sistema de controle de versão Git e por quê?
+
+Ele foi criado por Linus Torvalds.Linus desenvolveu o Git após ter ficado insatisfeito com uma mudança de licença de utilização do BitKeeper, o sistema de controle de versão que era utilizado por ele e pela equipe que desenvolvia o Linux.
+Como na época não existia nada similar, ele resolveu criar a sua própria versão de um sistema para controlar as alterações do projeto Linux. E foi aí que surgiu o Git.
+
+2.Quem atualmente é o dono do Github e por quê?
+
+Usada por 28 milhões de pessoas, plataforma é o maior repositório de código de programas do mundo.A Microsoft comprou o GitHub, plataforma usada por desenvolvedores para hospedar códigos, por US$ 7,5 bilhões.
+O GitHub é um repositório popular de projetos de códigos com mais de 10 anos e usado por 28 milhões de desenvolvedores em todo mundo. Também é o espaço em que grandes empresas, como Amazon, Apple e Google, escolhem quando querem mostrar o que estão fazendo.
+A Microsoft, apesar de ser uma das maiores criadores de software proprietário do mundo, é uma das maiores contribuidoras da plataforma. Muitos dos programas da companhia tiveram seus códigos abertos no GitHub, como PowerShell, Visual Studio Code e o motor de JavaScript do navegador Microsoft Edge.
+Software de computador com código aberto permitem que outros desenvolvedores além dos criadores possam estudá-lo, modificá-lo, contribuir com sua criação e até desenvolvê-lo para distribuí-lo de outra forma.
+
+3.Existe outra maneira, além do terminal, de trabalhar com o Github?
+
+Sim, existem.
+1. GitKraken - Interface gráfica que permite clonar repositórios do Github;
+2. Github versão web - Com um simples arrastar o usuário pode controlar as versões de seu projeto no Github;
+3. Extensões na IDE - Há diversas extensões que permitem configurar o repositório remoto no Github e trabalhar com eles de forma prática e simples.
